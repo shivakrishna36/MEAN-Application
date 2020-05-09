@@ -1,6 +1,34 @@
 # MEAN-Application
 MYSQL, EXPRESS, ANGULAR, NODEJS
 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+prerequisite
+***************************************
+Make sure Node Js is installed version is 12 or above
+Make sure angularCli is installed version 8 or above
+Mysql is installed
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+For Angular setup
+*******************************************************
+1. After the zip file is downloaded Extract and open bankApplication folder.
+2. From that current folder where src is present open cmd from there.
+3. Run command as 'npm install'
+4. Next, Run command 'ng serve'
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
+For Node js setup
+*************************************************************
+1. After the zip file is downloaded Extract and open bankapp folder.
+2. From that current folder where index.js is present open cmd from there.
+3. Run command as 'npm install'
+4.Next, run command 'node index.js'
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
 For MYSQL setup 
 **********************************************************
 mysql> create database bankdb;
